@@ -1,11 +1,11 @@
-import { useState } from "react";
+import { useState } from "react"
 
 import bugImageUrl from '../../assets/icons/bug.svg'
 import ideaImageUrl from '../../assets/icons/idea.svg'
 import thoughtImageUrl from '../../assets/icons/thought.svg'
-import { FeedbackTypeStep } from "./Steps/FeedbackTypeStep";
-import { FeedbackContentStep } from "./Steps/FeedbackContentStep";
-import { FeedbackSuccessStep } from "./Steps/FeedbackSuccessStep";
+import { FeedbackTypeStep } from "./Steps/FeedbackTypeStep"
+import { FeedbackContentStep } from "./Steps/FeedbackContentStep"
+import { FeedbackSuccessStep } from "./Steps/FeedbackSuccessStep"
 
 export const feedbackTypes = {
   BUG: {
