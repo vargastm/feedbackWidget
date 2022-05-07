@@ -90,7 +90,7 @@ npm start
 
 ### 📝 License
 
-**Feedback Widget** is released under the [MIT License](.github/LICENSE.md) para mais detalhes.
+**Feedback Widget** is released under the [MIT License](./LICENSE.md) para mais detalhes.
 
 ---
 
